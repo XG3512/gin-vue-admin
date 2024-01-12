@@ -120,12 +120,12 @@ mssql:
     log-zap: false
 mysql:
     prefix: ""
-    port: "3269"
+    port: ""
     config: charset=utf8mb4&parseTime=True&loc=Local
     db-name: gvanew
     username: gva
-    password: QP3eCKIoL5xUTawr
-    path: 124.221.47.28
+    password: 
+    path: 
     engine: ""
     log-mode: error
     max-idle-conns: 10
